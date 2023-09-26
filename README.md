@@ -12,11 +12,9 @@
  
  🔭 I’m currently working on **a chat app**
  
- 🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
+ 🌱 I’m currently learning **Springboot, Go**
 
- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/yuanindublin/yuanindublin/issues)**
-
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ 💬 Ask me about **Node.js, React, React Native Expo... or anything [here](https://github.com/yuanindublin/yuanindublin/issues)**
  
  </div>
  
