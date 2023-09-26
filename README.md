@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yuanindublin.yuanindublin" />
 
 <div style="width: 100%;">
-  <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
+  <img src="hello.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
 <h3 align="center">A passionate computer science student in University College Dublin 🇮🇪</h3>
