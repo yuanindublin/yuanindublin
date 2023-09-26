@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yuanindublin.yuanindublin" />
 
 <div style="width: 100%;">
-  <img src="welcom.svg" style="width: 100%;" alt="Click to see the source">
+  <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
 <h1 align="center">
